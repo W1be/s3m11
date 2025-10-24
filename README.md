@@ -1,3 +1,3 @@
-# s3m11
-s3m11
+IKTS-32
 Kabin Mikhail
+Petr Peregudov
